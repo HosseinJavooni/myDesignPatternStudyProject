@@ -6,7 +6,7 @@ ntelliJ IDEA ###
 *.iws
 *.iml
 *.ipr
-
+target
 ### Eclipse ###
 .apt_generated
 .classpath
@@ -15,7 +15,7 @@ ntelliJ IDEA ###
 .settings
 .springBeans
 .sts4-cache
-
+target
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
