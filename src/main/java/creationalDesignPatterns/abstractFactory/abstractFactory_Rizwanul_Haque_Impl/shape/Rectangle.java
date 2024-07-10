@@ -1,4 +1,4 @@
-package creationalDesignPatterns.abstractFactory.shape;
+package creationalDesignPatterns.abstractFactory.abstractFactory_Rizwanul_Haque_Impl.shape;
 
 public class Rectangle implements Shape {
     @Override

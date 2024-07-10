@@ -21,5 +21,4 @@ public class AppForTestingFactoryMethod {
         Shape square = squareFactory.createShape();
         square.draw();
 	}
-
 }
